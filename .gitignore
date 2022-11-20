@@ -16,3 +16,13 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+public/dist/
+public/docs/
+public/iframe-dark.html
+public/iframe.html
+public/index.html
+public/index2.html
+public/index3.html
+public/pages/
+public/plugins/
+public/starter.html
